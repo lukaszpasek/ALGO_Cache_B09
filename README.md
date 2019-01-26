@@ -14,19 +14,19 @@ The first line of the set contains three integers 𝑘, 𝑛, 𝑚 (1≤𝑘≤1
 Exit
 For each set, write the minimum number of cell copyings from the ordinary memory to the cache.
 
-Example
-For input data:
-2
-2 4 5
-1
-2
-1
-4
-1
-3 3 3
-1
-3
-2
-The correct answer is:
-3
-3
+Example  
+For input data:  
+2  
+2 4 5  
+1  
+2  
+1  
+4  
+1  
+3 3 3  
+1  
+3  
+2  
+The correct answer is:  
+3  
+3  
